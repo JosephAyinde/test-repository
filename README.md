@@ -1,4 +1,3 @@
-# test-repository
-A test description
+# my very first repository
 
-I have changed me mind, this is another line.
+This is my first repository on github
